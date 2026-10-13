@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Survival_world\Survival_world\bin\Debug\Survival_world.exe.config
+C:\Users\User\Desktop\Survival_world\Survival_world\bin\Debug\Survival_world.exe
+C:\Users\User\Desktop\Survival_world\Survival_world\bin\Debug\Survival_world.pdb
+C:\Users\User\Desktop\Survival_world\Survival_world\obj\Debug\Survival_world.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Survival_world\Survival_world\obj\Debug\Survival_world.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Survival_world\Survival_world\obj\Debug\Survival_world.exe
+C:\Users\User\Desktop\Survival_world\Survival_world\obj\Debug\Survival_world.pdb
